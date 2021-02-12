@@ -1,4 +1,4 @@
-# This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
+[![Build Status](https://dev.azure.com/dhirajkumar1979/az400/_apis/build/status/dmish83.ContosoAir?branchName=master)](https://dev.azure.com/dhirajkumar1979/az400/_build/latest?definitionId=1&branchName=master)
 
 
 # Microsoft.Github CI Demo
